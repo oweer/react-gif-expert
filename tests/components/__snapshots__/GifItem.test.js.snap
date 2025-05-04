@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first Debe hacer match con el snapchopt 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Test"
+      src="https://google.com/imag.png"
+    />
+    <p>
+      Test
+    </p>
+  </div>
+</div>
+`;
